@@ -21,7 +21,6 @@ import domainUtils from '../utils/domain-uitls';
 import account from "../entity/account";
 import { att } from '../entity/att';
 import telegramService from './telegram-service';
-import domainUtils from '../utils/domain-uitls';
 
 const emailService = {
 
